@@ -1,5 +1,6 @@
 // PROGRAM: TAKE A NUMBER AND PRINT WHETHER IT IS POSITIVE,NEGATIVE OR ZERO
 // AUTHOR-AADITYA SHAKYA
+// LANGUAGE: C++
 #include <bits/stdc++.h>
 using namespace std;
 
